@@ -1,0 +1,4 @@
+Algebra_1 8 12349
+Analiza_falkowa 6 120
+Analiza_matematyczna_1 11 1220
+Topologia_w_przestrzeniach_Hilberta 5 0087
